@@ -8,4 +8,4 @@ Name: Sumit Khanal;
 Roll. No: 23;
 
 Name: Prabin Lamsal;
-Roll. No: 29; 
+Roll. No: 28; 
